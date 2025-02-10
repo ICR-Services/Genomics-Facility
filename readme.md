@@ -17,6 +17,6 @@ We offer diverse workflows, including bulk cell DNA/RNA analysis, single-cell se
 | Scientific Officer	| Otis Agbaimoni	| 0009-0001-0963-8129	| January 2022 |
 | Scientific Officer	| Margherita Martelli	| 0009-0003-5564-3046	| February 2024 |
 | Scientific Officer	| Parthkumar Mandakana	| 0009-0006-8429-8167	| March 2024 |
-| Senior Bioinformatics	| Ritika Chauhan 	| 0000-0002-1224-9343	| August 2013 |
+| Senior Bioinformatician	| Ritika Chauhan 	| 0000-0002-1224-9343	| August 2013 |
 | Bioinformatician 	| Leandro Rodrigues Santiago	| 0000-0001-7884-2847	| July 2023 |
 
