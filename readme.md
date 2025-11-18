@@ -11,7 +11,7 @@ We offer diverse workflows, including bulk cell DNA/RNA analysis, single-cell se
 ### Staff
 | Role	| Name	| Orcid	| Started |
 | -- | -- | -- | -- |
-| Facility Manager	| Shichina Kannambath	| 0009-0005-6067-5696	| February 2022 |
+| Head of the Facility	| Shichina Kannambath	| 0009-0005-6067-5696	| February 2022 |
 | Senior Scientific Officer |	Kerry Overwick	| 0000-0001-6056-9467	| June 2002 |
 | Senior Scientific Officer |	Floriana Manodoro	| 0000-0002-7387-9453	| November 2015 |
 | Scientific Officer	| Otis Agbaimoni	| 0009-0001-0963-8129	| January 2022 |
